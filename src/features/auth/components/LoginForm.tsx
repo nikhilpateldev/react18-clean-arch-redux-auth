@@ -55,7 +55,8 @@ export const LoginForm: React.FC = () => {
       </button>
 
       <p style={{ marginTop: '0.75rem', fontSize: '0.8rem', color: '#6b7280' }}>
-        Admin → admin@fleet.com / admin<br />
+        Admin → admin@fleet.com / admin
+        <br />
         Manager → manager@fleet.com / manager
       </p>
 
